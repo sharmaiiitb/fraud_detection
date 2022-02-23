@@ -3,6 +3,6 @@ a = 6
 b = 7
 def sum(a,b):
     c = a+b
-    return c
+    return a
 
     print('added a new function sum')
