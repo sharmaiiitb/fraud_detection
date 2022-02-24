@@ -8,7 +8,7 @@ def multiplication(a,b):
     c = a*b
     return c
 
-    print('added a new function multiplication')
+    print('added a new function multiplicationn')
 
     def divivsion(a,b)
     d = a/b
